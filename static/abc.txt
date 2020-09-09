@@ -1,0 +1,1 @@
+git diff:- shows the difference between  working directory and staging area
